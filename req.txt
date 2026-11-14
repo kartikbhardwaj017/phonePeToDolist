@@ -1,0 +1,29 @@
+
+Entities
+
+Task
+    title
+    deadline
+    tags: string[]
+    state: PENDING|CANCELLED|COMPLETED
+    beginFromDate: Date
+    createdDate:
+    completedDate;
+    cancelledDate;
+User
+
+Activity log
+
+
+statistics
+    How many were added, remvod, completed with in a time perios
+
+
+functions
+add, modify, remove taska
+
+filter  
+  tags, beginFrom
+
+
+
